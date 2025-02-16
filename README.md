@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br />
 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://images.app.goo.gl/Uhi8PpxZAK1pGjNn9">
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <br />
 
